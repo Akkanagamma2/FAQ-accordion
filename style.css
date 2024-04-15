@@ -98,16 +98,16 @@ body{
         font-size: 32px;
     }
     .faq-button img{
-        width: 25px;
+        width: 22px;
     }
     .faq-item{
-        margin: 16px;
+        margin: 20px;
     }
     .faq-question{
         font-size: 12px;
     }
     .faq-question h3{
-       
+        font-size: 14px;
         font-weight: 600;
     }
     .answer p{
